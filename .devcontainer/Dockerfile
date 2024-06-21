@@ -1,8 +1,6 @@
 # Use a base image with a Linux distribution
 FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu
 
-
-
 # Install dependencies
 RUN apt-get update && apt-get install -y \
     curl \
