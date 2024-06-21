@@ -1,4 +1,4 @@
-# advancing_with_java_kcdc_2024
+# Advancing with Java KCDC 2024
 
 ## Local Machine Setup
 
