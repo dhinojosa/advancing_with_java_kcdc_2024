@@ -1,7 +1,21 @@
 # advancing_with_java_kcdc_2024
 
-1. Clone and open the project in your favorite editor.
-2. Ensure that you have Java 22 installed
-3. If you are having problems or you would just like to run in any of the cloud-based editor services click on any of the badges below
+## Local Machine Setup
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/github.com/dhinojosa/advancing_with_java_kcdc_2024) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dhinojosa/advancing_with_java_kcdc_2024)
+1. Ensure that you have Java **22** and Maven 3.8.x installed
+2. Clone and open the project in your favorite editor
+
+## Gitpod 
+1. If you are having problems, or you would just like to run in Gitpod click on the badge below
+2. Sign in with your GitHub account
+3. Select VSCode Browser as your editor
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/github.com/dhinojosa/advancing_with_java_kcdc_2024) 
+
+## GitHub CodeSpaces
+
+1. If you are having problems, or you would just like to run in GitHub CodeSpaces click on the badge below
+2. Sign in with your GitHub account
+3. Select VSCode Browser as your editor
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dhinojosa/advancing_with_java_kcdc_2024)
