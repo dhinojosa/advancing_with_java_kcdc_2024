@@ -23,7 +23,7 @@ public class Application {
                 printThreadAndKey("In task, in structured scope");
                 var string = scope.fork(service::run);
                 scope.join();
-                System.out.println(STR."Result is \{string.get()}");
+                System.out.println(String.format("Result is %s", string.get()));
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
