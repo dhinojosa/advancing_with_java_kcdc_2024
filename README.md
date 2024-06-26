@@ -19,3 +19,18 @@
 3. Select VSCode Browser as your editor
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dhinojosa/advancing_with_java_kcdc_2024)
+
+## Agenda
+
+1. JEPs
+2. JavaAlmanac.io
+3. Value Objects, Primitive Obsession, Feature Envy
+4. Java Records
+5. Switch _expressions_
+6. Sealed Classes
+7. Virtual Threads
+8. Scoped Values
+9. Structured Concurrency
+10. String Templates
+11. Unnamed Variables and Patterns
+12. Value Classes and Objects
