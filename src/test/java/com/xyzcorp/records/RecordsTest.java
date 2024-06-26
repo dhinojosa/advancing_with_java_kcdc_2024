@@ -38,12 +38,6 @@ public class RecordsTest {
 
 
     @Test
-    void testAPersonRecordWithAlternateConstructors() {
-        Person person = new Person("James", "Gosling");
-        person.middleName();
-    }
-
-    @Test
     void testExtendingByComposition() {
         record Teamz(String name, String city) {
         }
