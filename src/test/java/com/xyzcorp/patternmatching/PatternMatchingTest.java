@@ -20,6 +20,7 @@ public class PatternMatchingTest {
         assertThat(result).isEqualTo("non empty string");
     }
 
+    //Pattern Match with switch
     @Test
     void testStringMatch() {
         PatternMatching.matchString("Foo");
@@ -36,6 +37,7 @@ public class PatternMatchingTest {
         assertThat(result2).isEqualTo("long 10");
     }
 
+    //Record Matching
     @Test
     void testStringMatchWithRecordMatching() {
         String result = PatternMatching.matchRecordPatterns(new Team("Seattle", "Mariners", 30, 12));
@@ -49,6 +51,7 @@ public class PatternMatchingTest {
         assertThat(result).isEqualTo("Team Mariners from Seattle");
     }
 
+    //Record Matching with Unnamed Variables
     @Test
     void testStringMatchWithRecordMatchingWithUnnamedVariablesAndWhen() {
         Team mariners = new Team("Minnesota", "Twins", 30, 12);

@@ -33,6 +33,7 @@ public class PatternMatching {
         return "not a string or is empty";
     }
 
+    //Using enhanced switch expressions with pattern matching
     public static void matchString(String s) {
         switch (s) {
             case null         -> System.out.println("Oops");
